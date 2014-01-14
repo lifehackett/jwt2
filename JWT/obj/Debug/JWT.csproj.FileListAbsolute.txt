@@ -1,0 +1,8 @@
+c:\users\chackett.createhope\documents\visual studio 2012\Projects\JWT\JWT\bin\Debug\JWT.exe.config
+c:\users\chackett.createhope\documents\visual studio 2012\Projects\JWT\JWT\bin\Debug\JWT.exe
+c:\users\chackett.createhope\documents\visual studio 2012\Projects\JWT\JWT\bin\Debug\JWT.pdb
+c:\users\chackett.createhope\documents\visual studio 2012\Projects\JWT\JWT\obj\Debug\JWT.csprojResolveAssemblyReference.cache
+c:\users\chackett.createhope\documents\visual studio 2012\Projects\JWT\JWT\obj\Debug\JWT.exe
+c:\users\chackett.createhope\documents\visual studio 2012\Projects\JWT\JWT\obj\Debug\JWT.pdb
+C:\Users\chackett.CREATEHOPE\Documents\Visual Studio 2012\Projects\JWT\JWT\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chackett.CREATEHOPE\Documents\Visual Studio 2012\Projects\JWT\JWT\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
